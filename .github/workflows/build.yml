@@ -3,7 +3,7 @@ name: HelloWorld
 on: [push]
 
 env:
-  EXE_NAME: Hello-World
+  EXE_NAME: HelloWorld
   BUILD_TYPE: Release
     #INPUT_FILES:
     #OUTPUT_FILES:
